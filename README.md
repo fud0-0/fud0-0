@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fud0-0
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning the world
+- 👀 I’m interested in food
+- 🌱 I’m currently eating
 - 📫 How to reach me @youcant
 
 <!---
